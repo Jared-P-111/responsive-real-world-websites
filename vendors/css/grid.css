@@ -11,6 +11,7 @@
 
 .row {
     zoom: 1; /* For IE 6/7 (trigger hasLayout) */
+    margin: 0;
 }
 
 .row:before,
